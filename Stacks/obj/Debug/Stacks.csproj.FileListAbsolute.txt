@@ -1,0 +1,7 @@
+\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Stacks\Stacks\Stacks\bin\Debug\Stacks.exe.config
+\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Stacks\Stacks\Stacks\bin\Debug\Stacks.exe
+\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Stacks\Stacks\Stacks\bin\Debug\Stacks.pdb
+\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Stacks\Stacks\Stacks\obj\Debug\Stacks.csprojAssemblyReference.cache
+\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Stacks\Stacks\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Stacks\Stacks\Stacks\obj\Debug\Stacks.exe
+\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Stacks\Stacks\Stacks\obj\Debug\Stacks.pdb
