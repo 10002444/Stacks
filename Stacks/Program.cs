@@ -52,7 +52,7 @@ public class Program
             s2.Push(x);
         int size = s2.Count;
         for (int i = 0; i < size; i++)
-            Console.WriteLine(s2.Pop());
+            Console.Write(s2.Pop());
         Console.WriteLine();
     }
 
