@@ -17,6 +17,8 @@ public class Program
         s1.Push("World");
         s1.Push("!");
 
+
+        //Task 2
         while (s1.Peek().ToString() == "World")
         {
             s1.Pop();
@@ -37,6 +39,21 @@ public class Program
         Console.WriteLine("Top item: " + s1.Pop() + "\nCount: " + s1.Count);
         Console.WriteLine("Top item: " + s1.Pop() + "\nCount: " + s1.Count);
 
+
+        //Task 3
+        Console.WriteLine();
+
+        Stack s2 = new Stack();
+        Console.Write("Please enter a string: ");
+        string input = Console.ReadLine();
+        //s1.Push(Console.ReadLine());
+
+        foreach (char x in input)
+            s2.Push(x);
+        int size = s2.Count;
+        for (int i = 0; i < size; i++)
+            Console.WriteLine(s2.Pop());
+        Console.WriteLine();
     }
 
 }
